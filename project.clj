@@ -1,4 +1,4 @@
-(defproject damionjunk/common "0.2.0"
+(defproject damionjunk/common "0.2.1"
   :description "A collection of common code bits, slowly accumulating as needed."
   :url "https://github.com/damionjunk/damionjunk.common"
   :license {:name "Eclipse Public License"
